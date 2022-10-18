@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Divya Sonara</h1> 
 <h3 align="center">A passionate frontend developer from India</h3> 
 
-<img align="right" alt="Coding" width="400" src="h https://www.google.com/search?q=animated+coding+female+gif+maker&tbm=isch&chips=q:animated+coding+female+gif+maker,online_chips:learning:3nsnmx6wh-w%3D&hl=en-US&sa=X&ved=2ahUKEwiygYzl0en6AhX1jtgFHZBaBXMQ4lYoAXoECAEQIw&biw=1905&bih=980#imgrc=iNXuW1o8yUv0-M&imgdii=Ayf1SYgO6GGXAM " 
+<img align="right" alt="Coding" width="400" src="h https://www.google.com/search?q=animated+coding+female+gif+maker&tbm=isch&chips=q:animated+coding+female+gif+maker,online_chips:learning:3nsnmx6wh-w%3D&hl=en-US&sa=X&ved=2ahUKEwiygYzl0en6AhX1jtgFHZBaBXMQ4lYoAXoECAEQIw&biw=1905&bih=980#imgrc=iNXuW1o8yUv0-M&imgdii=Ayf1SYgO6GGXAM"> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasonara7&label=Profile%20views&color=0e75b6&style=flat" alt="divyasonara7" /> </p> 
  
